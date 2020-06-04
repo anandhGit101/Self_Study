@@ -1,0 +1,796 @@
+2019-10-31 10:37:32,355 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17616 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-10-31 10:37:32,356 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-31 10:37:32,360 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-10-31 10:37:44,845 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.369 seconds (JVM running for 14.73)
+2019-10-31 10:39:49,714 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21968 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-10-31 10:39:49,716 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-31 10:39:49,716 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-10-31 10:40:01,805 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.806 seconds (JVM running for 14.347)
+2019-10-31 11:19:46,320 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 23492 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-10-31 11:19:46,322 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-31 11:19:46,323 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-10-31 11:20:00,537 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.219 seconds (JVM running for 16.946)
+2019-10-31 11:50:06,082 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 27424 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-10-31 11:50:06,087 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-31 11:50:06,089 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-10-31 11:50:54,779 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 20000 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-10-31 11:50:54,780 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-31 11:50:54,781 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-10-31 11:51:11,614 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.677 seconds (JVM running for 19.34)
+2019-10-31 21:19:09,610 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 10868 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-10-31 21:19:09,612 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-10-31 21:19:09,612 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-10-31 21:19:23,726 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.181 seconds (JVM running for 16.873)
+2019-11-01 18:56:48,464 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 1548 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-01 18:56:48,464 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-01 18:56:48,464 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-01 19:05:32,113 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 7736 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-01 19:05:32,114 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-01 19:05:32,115 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-01 19:28:59,546 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28664 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-01 19:28:59,547 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-01 19:28:59,547 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-01 19:45:06,001 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19832 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-01 19:45:06,002 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-01 19:45:06,003 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-01 19:47:17,380 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 15752 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-01 19:47:17,381 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-01 19:47:17,382 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-01 20:10:03,091 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26208 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-01 20:10:03,091 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-01 20:10:03,091 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-04 09:43:39,081 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 30980 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-04 09:43:39,081 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-04 09:43:39,081 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-04 17:14:53,669 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 30388 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-04 17:14:53,671 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-04 17:14:53,672 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-04 20:40:06,791 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 30160 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-04 20:40:06,793 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-04 20:40:06,794 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-04 20:45:47,137 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29916 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-04 20:45:47,138 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-04 20:45:47,140 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 09:36:40,525 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 12668 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 09:36:40,529 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 09:36:40,530 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 10:42:23,294 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 12928 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 10:42:23,296 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 10:42:23,297 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 10:54:07,277 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25244 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 10:54:07,278 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 10:54:07,278 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 10:56:23,877 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19828 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 10:56:23,878 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 10:56:23,878 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 10:56:36,689 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.466 seconds (JVM running for 14.912)
+2019-11-05 10:59:30,428 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21676 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 10:59:30,429 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 10:59:30,429 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 11:00:25,053 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21104 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 11:00:25,055 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 11:00:25,056 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 11:00:41,289 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.084 seconds (JVM running for 19.524)
+2019-11-05 11:02:38,756 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 22924 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 11:02:38,758 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 11:02:38,759 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 11:33:33,233 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26828 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 11:33:33,237 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 11:33:33,238 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 11:54:08,921 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 12164 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 11:54:08,923 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 11:54:08,924 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 12:13:00,972 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16360 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 12:13:00,973 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 12:13:00,974 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 12:13:46,147 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28980 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 12:13:46,148 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 12:13:46,149 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 12:15:42,745 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 3248 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 12:15:42,746 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 12:15:42,747 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 12:16:01,620 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 20.274 seconds (JVM running for 21.291)
+2019-11-05 14:42:19,651 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16668 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 14:42:19,654 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 14:42:19,655 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 14:42:33,265 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.648 seconds (JVM running for 16.677)
+2019-11-05 14:46:55,316 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 31216 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 14:46:55,317 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 14:46:55,318 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 14:47:56,929 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16928 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 14:47:56,930 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 14:47:56,931 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 14:48:09,658 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.506 seconds (JVM running for 15.026)
+2019-11-05 17:00:42,194 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25832 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:00:42,196 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:00:42,197 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:02:02,371 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28616 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:02:02,373 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:02:02,374 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:02:15,384 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.919 seconds (JVM running for 15.975)
+2019-11-05 17:04:47,148 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 13112 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:04:47,152 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:04:47,153 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:05:00,143 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.866 seconds (JVM running for 16.45)
+2019-11-05 17:14:46,738 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24060 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:14:46,740 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:14:46,740 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:14:58,901 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.821 seconds (JVM running for 14.244)
+2019-11-05 17:19:52,209 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28784 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:19:52,212 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:19:52,213 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:22:29,318 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 2024 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:22:29,320 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:22:29,320 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:22:43,059 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.495 seconds (JVM running for 15.962)
+2019-11-05 17:26:28,002 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 11252 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:26:28,003 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:26:28,003 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:41:57,457 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26872 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:41:57,459 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:41:57,460 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:42:12,402 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.866 seconds (JVM running for 17.6)
+2019-11-05 17:47:36,372 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 10868 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 17:47:36,374 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 17:47:36,375 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 17:47:49,493 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.042 seconds (JVM running for 15.7)
+2019-11-05 18:12:21,235 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21724 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 18:12:21,236 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 18:12:21,237 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 18:15:56,045 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29880 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 18:15:56,047 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 18:15:56,048 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 18:18:06,962 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 20960 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 18:18:06,963 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 18:18:06,964 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 18:18:18,472 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.22 seconds (JVM running for 13.533)
+2019-11-05 18:31:58,280 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 31220 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 18:31:58,280 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 18:31:58,280 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 18:32:06,723 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.12 seconds (JVM running for 10.266)
+2019-11-05 19:05:29,356 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 22236 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 19:05:29,357 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 19:05:29,358 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 19:05:38,384 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.647 seconds (JVM running for 10.858)
+2019-11-05 21:26:32,602 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16916 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-05 21:26:32,603 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-05 21:26:32,605 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-05 21:26:47,057 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.45 seconds (JVM running for 18.077)
+2019-11-06 13:22:07,941 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 30148 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 13:22:07,947 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 13:22:07,947 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 13:22:24,435 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.614 seconds (JVM running for 19.464)
+2019-11-06 16:16:44,446 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29900 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 16:16:44,448 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 16:16:44,449 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 16:19:11,401 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24900 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 16:19:11,403 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 16:19:11,403 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 16:51:03,317 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29016 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 16:51:03,318 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 16:51:03,319 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 16:57:25,766 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 13276 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 16:57:25,781 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 16:57:25,781 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 16:58:36,782 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28076 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 16:58:36,783 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 16:58:36,784 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 16:59:13,089 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24280 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 16:59:13,089 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 16:59:13,090 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:19:19,159 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 22932 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:19:19,161 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:19:19,162 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:27:52,523 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 27236 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:27:52,525 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:27:52,526 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:31:58,825 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26004 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:31:58,827 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:31:58,828 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:39:24,039 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 30868 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:39:24,042 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:39:24,043 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:45:48,550 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19704 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:45:48,553 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:45:48,554 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:55:24,016 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24844 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:55:24,020 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:55:24,023 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 17:57:56,485 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 3872 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 17:57:56,487 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 17:57:56,488 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:01:36,585 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 8520 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:01:36,590 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:01:36,591 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:01:50,073 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:01:52,316 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.945 seconds (JVM running for 18.959)
+2019-11-06 18:04:47,891 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-11-06 18:05:07,864 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-11-06 18:14:10,594 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 27052 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:14:10,596 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:14:10,597 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:14:45,409 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:14:47,442 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 38.078 seconds (JVM running for 40.222)
+2019-11-06 18:18:53,194 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 2436 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:18:53,196 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:18:53,197 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:19:06,778 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:19:08,129 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.056 seconds (JVM running for 17.951)
+2019-11-06 18:19:49,229 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19100 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:19:49,229 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:19:49,233 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:20:01,880 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:20:03,419 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.845 seconds (JVM running for 16.414)
+2019-11-06 18:23:44,731 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24300 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:23:44,734 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:23:44,738 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:24:06,349 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:24:08,077 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 24.447 seconds (JVM running for 26.514)
+2019-11-06 18:24:55,995 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21336 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:24:55,995 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:24:55,999 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:25:08,003 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:25:09,387 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.206 seconds (JVM running for 15.741)
+2019-11-06 18:28:39,857 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21992 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:28:39,860 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:28:39,861 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:28:52,468 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:28:53,883 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.816 seconds (JVM running for 16.433)
+2019-11-06 18:32:09,546 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 14128 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:32:09,549 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:32:09,549 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:32:23,879 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:32:25,831 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.275 seconds (JVM running for 19.143)
+2019-11-06 18:42:16,819 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 13196 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:42:16,821 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:42:16,822 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:42:29,969 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:42:31,575 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.841 seconds (JVM running for 17.553)
+2019-11-06 18:42:57,381 ERROR [http-nio-8080-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Bad credentials
+2019-11-06 18:47:33,712 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17740 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:47:33,714 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:47:33,715 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:47:43,754 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:47:45,009 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.015 seconds (JVM running for 13.498)
+2019-11-06 18:53:50,669 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25504 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:53:50,671 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:53:50,672 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:54:03,761 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:54:05,623 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.026 seconds (JVM running for 17.811)
+2019-11-06 18:56:45,865 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 31624 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 18:56:45,867 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 18:56:45,868 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 18:56:59,059 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 18:57:00,656 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.977 seconds (JVM running for 18.034)
+2019-11-06 19:11:35,114 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16732 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 19:11:35,116 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 19:11:35,117 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 19:11:48,661 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 19:11:50,151 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.076 seconds (JVM running for 17.975)
+2019-11-06 19:56:28,381 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29292 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-06 19:56:28,381 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-06 19:56:28,382 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-06 19:59:24,033 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-06 19:59:25,092 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 177.517 seconds (JVM running for 178.828)
+2019-11-07 16:38:23,283 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 31028 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-07 16:38:23,285 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-07 16:38:23,287 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-07 16:39:03,569 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-07 16:39:06,692 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 45.915 seconds (JVM running for 48.083)
+2019-11-08 10:45:34,266 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18504 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-08 10:45:34,267 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-08 10:45:34,268 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-08 10:45:50,289 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-08 10:45:51,978 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 18.919 seconds (JVM running for 20.981)
+2019-11-19 15:07:14,581 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 9236 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-19 15:07:14,584 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-19 15:07:14,585 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-19 15:07:37,263 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-19 15:07:38,801 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 25.531 seconds (JVM running for 30.24)
+2019-11-19 15:08:09,857 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Bad credentials
+2019-11-19 15:51:11,519 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 7204 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-19 15:51:11,519 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-19 15:51:11,519 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-19 15:51:26,361 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-19 15:51:28,303 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.709 seconds (JVM running for 20.407)
+2019-11-19 15:55:30,812 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21544 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-19 15:55:30,813 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-19 15:55:30,814 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-19 15:55:41,289 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-19 15:55:42,381 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.169 seconds (JVM running for 13.381)
+2019-11-19 16:01:15,283 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 22764 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-19 16:01:15,284 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-19 16:01:15,285 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-19 16:01:27,175 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-19 16:01:28,322 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.806 seconds (JVM running for 15.259)
+2019-11-20 18:02:15,968 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25556 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-20 18:02:15,968 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-20 18:02:15,968 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-20 18:02:23,925 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-20 18:02:24,773 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.476 seconds (JVM running for 10.484)
+2019-11-21 15:39:34,364 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29268 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-21 15:39:34,365 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-21 15:39:34,366 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-21 15:39:48,713 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-21 15:39:50,068 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.646 seconds (JVM running for 17.931)
+2019-11-21 15:54:31,465 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 3260 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-21 15:54:31,466 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-21 15:54:31,467 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-21 15:54:42,937 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-21 15:54:44,112 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.627 seconds (JVM running for 15.612)
+2019-11-21 16:03:25,212 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29432 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-21 16:03:25,213 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-21 16:03:25,214 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-21 16:03:36,185 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-21 16:03:37,447 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.855 seconds (JVM running for 14.159)
+2019-11-21 16:05:23,557 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 20724 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-21 16:05:23,558 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-21 16:05:23,559 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-21 16:05:34,513 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-21 16:05:35,649 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.683 seconds (JVM running for 13.831)
+2019-11-22 16:19:46,844 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29636 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-22 16:19:46,845 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-22 16:19:46,846 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-22 16:19:56,654 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-22 16:19:57,538 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.332 seconds (JVM running for 12.782)
+2019-11-25 11:23:45,175 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19504 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-25 11:23:45,176 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-25 11:23:45,176 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-25 11:23:53,042 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-25 11:23:53,916 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.313 seconds (JVM running for 10.417)
+2019-11-29 18:52:36,529 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 33556 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-29 18:52:36,530 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-29 18:52:36,530 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-29 18:52:48,221 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-29 18:52:49,233 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.72 seconds (JVM running for 17.113)
+2019-11-30 20:50:35,025 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 32324 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-11-30 20:50:35,026 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-30 20:50:35,027 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-11-30 20:50:49,417 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-11-30 20:50:51,174 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.121 seconds (JVM running for 19.638)
+2019-12-02 12:01:19,237 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26364 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 12:01:19,238 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 12:01:19,238 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 12:01:27,221 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 12:01:28,188 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.641 seconds (JVM running for 10.791)
+2019-12-02 12:01:49,264 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 38916 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 12:01:49,265 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 12:01:49,266 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 12:01:56,647 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 12:01:57,475 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 8.721 seconds (JVM running for 9.693)
+2019-12-02 12:50:35,575 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25936 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 12:50:35,576 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 12:50:35,577 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 12:50:44,602 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 12:51:46,260 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21152 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 12:51:46,262 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 12:51:46,262 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 12:51:54,504 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 12:51:55,446 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.725 seconds (JVM running for 10.717)
+2019-12-02 13:00:14,990 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 38212 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 13:00:14,990 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 13:00:14,991 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 13:00:29,323 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 13:00:30,161 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.729 seconds (JVM running for 16.674)
+2019-12-02 13:05:08,635 ERROR [http-nio-8080-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 13:05:40,243 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 32456 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 13:05:40,244 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 13:05:40,244 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 13:05:48,242 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 13:05:49,032 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.26 seconds (JVM running for 10.15)
+2019-12-02 13:06:12,908 ERROR [http-nio-8080-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 14:49:55,095 ERROR [http-nio-8080-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 14:51:17,373 ERROR [http-nio-8080-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:10:24,680 ERROR [http-nio-8080-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:13:15,623 ERROR [http-nio-8080-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:37:55,572 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 32828 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 15:37:55,573 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 15:37:55,573 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 15:38:03,643 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 15:38:04,506 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.542 seconds (JVM running for 10.549)
+2019-12-02 15:40:37,478 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 2252 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 15:40:37,479 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 15:40:37,479 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 15:40:45,084 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 15:40:45,926 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.033 seconds (JVM running for 9.918)
+2019-12-02 15:46:33,770 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:47:20,544 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:51:08,659 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:52:59,219 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 15:54:11,699 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 16:03:53,434 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 16:05:18,168 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 18:24:09,790 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 18:26:26,194 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 18:27:32,705 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 39212 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 18:27:32,706 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 18:27:32,706 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 18:27:42,981 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 18:27:43,939 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.947 seconds (JVM running for 13.286)
+2019-12-02 18:28:56,944 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 18:31:27,365 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 34920 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 18:31:27,366 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 18:31:27,366 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 18:31:35,083 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 18:31:35,979 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.171 seconds (JVM running for 10.08)
+2019-12-02 18:39:55,253 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25096 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 18:39:55,254 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 18:39:55,254 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 18:40:06,135 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 18:40:07,341 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.58 seconds (JVM running for 13.532)
+2019-12-02 18:41:13,172 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 18:42:34,845 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 18:44:13,025 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 19:10:15,860 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 19:11:20,669 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 36172 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 19:11:20,669 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 19:11:20,670 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 19:11:35,726 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 19:11:36,824 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.007 seconds (JVM running for 18.694)
+2019-12-02 19:11:52,005 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 19:13:46,248 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 19:14:01,745 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 19:21:12,802 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2019-12-02 19:23:34,691 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29376 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-02 19:23:34,691 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-02 19:23:34,692 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-02 19:23:42,432 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-02 19:23:43,228 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.011 seconds (JVM running for 9.932)
+2019-12-05 16:22:20,815 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 40728 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-05 16:22:20,820 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-05 16:22:20,821 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-05 16:22:41,963 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-05 16:22:43,849 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 24.292 seconds (JVM running for 27.266)
+2019-12-20 15:02:44,052 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 12616 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2019-12-20 15:02:44,054 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-12-20 15:02:44,055 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2019-12-20 15:02:59,914 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2019-12-20 15:03:01,243 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 17.977 seconds (JVM running for 19.629)
+2020-01-20 17:43:39,658 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17984 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 17:43:39,663 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2020-01-20 17:43:39,664 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 17:43:54,308 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 17:43:55,729 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.872 seconds (JVM running for 17.414)
+2020-01-20 18:09:46,004 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18188 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 18:09:46,076 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2020-01-20 18:09:46,078 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 18:10:02,404 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 18:10:04,469 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 19.925 seconds (JVM running for 20.588)
+2020-01-20 18:12:03,695 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16044 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 18:12:03,697 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2020-01-20 18:12:03,698 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 18:12:18,635 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 18:12:20,855 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 18.298 seconds (JVM running for 19.022)
+2020-01-20 19:01:55,224 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 8176 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:01:55,229 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:01:55,231 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:02:13,111 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:02:16,385 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 22.043 seconds (JVM running for 22.827)
+2020-01-20 19:04:50,224 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 2756 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:04:50,225 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:04:50,226 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:05:08,600 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:05:10,509 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 22.362 seconds (JVM running for 24.593)
+2020-01-20 19:37:28,176 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 14924 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:37:28,177 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:37:28,178 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:37:49,977 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:37:51,751 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 24.847 seconds (JVM running for 26.002)
+2020-01-20 19:39:49,961 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 20456 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:39:49,962 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:39:49,964 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:40:03,362 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:40:04,719 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.498 seconds (JVM running for 16.066)
+2020-01-20 19:43:25,567 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 16468 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:43:25,568 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:43:25,568 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:43:34,881 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:43:35,943 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 10.97 seconds (JVM running for 11.81)
+2020-01-20 19:44:12,293 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 10496 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:44:12,294 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:44:12,295 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:44:21,165 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:44:59,376 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19000 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-20 19:44:59,377 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-20 19:44:59,378 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-20 19:45:21,413 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-20 19:45:23,280 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 25.223 seconds (JVM running for 26.454)
+2020-01-22 14:41:44,340 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24972 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-22 14:41:44,341 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-22 14:41:44,341 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-22 14:42:10,656 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-22 14:42:12,901 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 30.638 seconds (JVM running for 32.412)
+2020-01-28 12:29:49,339 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 27968 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-28 12:29:49,339 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-28 12:29:49,340 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-28 12:30:01,396 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-28 12:30:03,375 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.086 seconds (JVM running for 16.021)
+2020-01-28 14:14:00,199 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18484 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-28 14:14:00,200 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-28 14:14:00,201 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-28 14:14:11,474 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-28 14:14:12,602 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.201 seconds (JVM running for 14.042)
+2020-01-28 15:08:34,866 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21996 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-28 15:08:34,867 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-28 15:08:34,869 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-28 15:08:44,120 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28980 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-28 15:08:44,121 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-28 15:08:44,121 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-28 15:08:57,426 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-28 15:08:58,522 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 15.022 seconds (JVM running for 15.804)
+2020-01-29 11:58:08,983 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 15932 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 11:58:08,983 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 11:58:08,983 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 11:58:18,785 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 11:58:19,956 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.774 seconds (JVM running for 12.53)
+2020-01-29 12:23:09,208 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 29108 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 12:23:09,209 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 12:23:09,210 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 12:23:25,483 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 12:23:26,752 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 18.303 seconds (JVM running for 19.146)
+2020-01-29 12:24:15,391 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 28608 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 12:24:15,393 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 12:24:15,394 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 12:24:27,496 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 12:24:28,770 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.071 seconds (JVM running for 14.892)
+2020-01-29 13:47:34,039 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24864 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 13:47:34,042 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 13:47:34,043 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 13:47:45,450 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 13:47:47,164 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.833 seconds (JVM running for 14.509)
+2020-01-29 14:34:21,459 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19468 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 14:34:21,461 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 14:34:21,462 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 14:34:31,206 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 14:34:32,298 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.579 seconds (JVM running for 12.244)
+2020-01-29 15:56:00,652 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 27996 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 15:56:00,652 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 15:56:00,652 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 15:56:11,417 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 15:56:12,468 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.654 seconds (JVM running for 13.385)
+2020-01-29 15:57:39,555 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25516 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-29 15:57:39,556 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-29 15:57:39,557 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-29 15:57:47,544 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-29 15:57:48,452 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.44 seconds (JVM running for 10.153)
+2020-01-30 11:07:18,460 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 11:11:06,650 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 11:19:48,277 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26248 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 11:19:48,277 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 11:19:48,277 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 11:19:57,862 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 11:19:58,865 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.483 seconds (JVM running for 12.87)
+2020-01-30 11:21:33,051 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 11:22:27,265 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 14:51:35,616 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 14:55:57,421 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 14:58:37,407 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:00:09,673 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:06:56,643 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 15008 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 15:06:56,643 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 15:06:56,643 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 15:07:06,899 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 15:07:08,002 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.326 seconds (JVM running for 13.185)
+2020-01-30 15:07:35,293 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:17:38,815 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:19:35,722 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:21:38,312 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:28:16,435 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:35:52,112 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:35:52,963 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:36:07,943 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:36:08,989 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:36:55,649 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:45:15,858 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:45:36,210 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:47:01,633 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Bad credentials
+2020-01-30 15:47:55,978 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 15:47:58,505 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 16:05:44,984 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 17:20:31,755 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 17:21:16,174 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Bad credentials
+2020-01-30 17:23:32,145 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 17:37:28,714 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 19676 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 17:37:28,714 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 17:37:28,714 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 17:37:39,659 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 17:37:40,579 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.729 seconds (JVM running for 13.422)
+2020-01-30 17:38:43,916 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 17:46:40,140 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26792 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 17:46:40,140 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 17:46:40,140 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 17:46:48,971 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 17:46:49,916 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 10.637 seconds (JVM running for 11.235)
+2020-01-30 17:47:05,642 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 12652 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 17:47:05,642 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 17:47:05,642 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 17:47:13,921 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 17:47:14,923 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 9.837 seconds (JVM running for 10.59)
+2020-01-30 17:48:10,185 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 18:31:37,382 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 18:54:01,714 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 18:54:03,331 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 18:55:10,866 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:16:35,915 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:18:11,226 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:18:11,281 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:18:34,367 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:18:34,415 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:19:30,063 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:19:30,249 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:53:05,859 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:55:53,944 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:56:18,353 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:56:18,407 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:56:44,284 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:57:31,889 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 19:57:31,933 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:07:57,284 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:10:52,785 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:11:38,808 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:11:58,821 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:12:40,637 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:12:57,865 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:14:20,285 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:15:18,876 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 31108 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 20:15:18,877 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 20:15:18,878 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 20:15:28,318 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 20:15:29,812 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.656 seconds (JVM running for 12.355)
+2020-01-30 20:16:00,922 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:16:27,237 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:17:21,787 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25508 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 20:17:21,788 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 20:17:21,789 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 20:17:33,470 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 20:17:34,469 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 13.528 seconds (JVM running for 14.379)
+2020-01-30 20:18:10,691 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-30 20:21:44,476 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18532 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-30 20:21:44,477 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-30 20:21:44,478 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-30 20:21:53,264 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-30 20:21:54,187 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 10.359 seconds (JVM running for 11.053)
+2020-01-30 22:16:29,976 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 09:56:14,370 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 10:00:33,549 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 10:02:32,647 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 7928 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-31 10:02:32,649 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-31 10:02:32,650 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-31 10:02:44,503 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-31 10:02:45,893 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 14.332 seconds (JVM running for 15.182)
+2020-01-31 10:04:03,232 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 11:42:41,216 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 12:39:30,651 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 8896 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-31 12:39:30,652 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-31 12:39:30,653 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-31 12:39:39,880 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-31 12:39:41,452 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.535 seconds (JVM running for 12.661)
+2020-01-31 12:40:26,849 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 12:51:30,216 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:33:30,441 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:35:00,921 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:13,141 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:22,084 ERROR [http-nio-8009-exec-6] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:23,226 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:24,789 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:39,917 ERROR [http-nio-8009-exec-3] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:45,897 ERROR [http-nio-8009-exec-9] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:52,936 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:43:54,639 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:44:23,338 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:44:27,298 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 15:47:12,734 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 16:02:59,718 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17508 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-31 16:02:59,719 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-31 16:02:59,720 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-31 16:03:28,114 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24268 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-31 16:03:28,116 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-31 16:03:28,116 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-31 16:04:19,515 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 33696 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-31 16:04:19,516 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-31 16:04:19,518 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-31 17:03:16,868 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18628 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-01-31 17:03:16,870 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-01-31 17:03:16,870 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-01-31 17:03:51,035 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-01-31 17:03:52,057 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 35.955 seconds (JVM running for 36.556)
+2020-01-31 17:04:24,413 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 17:08:32,116 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-01-31 17:09:47,764 ERROR [http-nio-8009-exec-10] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-02 21:45:55,772 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 32660 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-02 21:45:55,773 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-02 21:45:55,775 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-02 21:49:28,309 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 33864 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-02 21:49:28,311 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-02 21:49:28,312 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-02 22:07:40,627 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 24024 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-02 22:07:40,629 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-02 22:07:40,630 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-02 22:08:19,132 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 32268 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-02 22:08:19,144 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-02 22:08:19,146 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-02 22:10:14,623 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 31148 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-02 22:10:14,625 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-02 22:10:14,626 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-02 22:10:36,739 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-02 22:10:39,633 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 26.197 seconds (JVM running for 27.743)
+2020-02-02 22:15:20,416 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-02 23:11:03,610 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 25356 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-02 23:11:03,613 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-02 23:11:03,614 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-02 23:11:21,680 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-02 23:11:24,500 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 22.051 seconds (JVM running for 23.458)
+2020-02-02 23:13:37,435 ERROR [http-nio-8009-exec-4] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-03 11:08:51,641 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26788 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-03 11:08:51,643 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-03 11:08:51,643 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-03 11:09:01,753 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-03 11:09:03,626 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.837 seconds (JVM running for 13.873)
+2020-02-03 11:10:48,824 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-03 11:12:16,127 ERROR [http-nio-8009-exec-1] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-03 11:13:05,507 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 26328 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-03 11:13:05,508 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-03 11:13:05,508 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-03 11:13:14,481 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-03 11:13:15,845 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 11.031 seconds (JVM running for 11.734)
+2020-02-03 11:14:04,042 ERROR [http-nio-8009-exec-2] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-03 11:20:23,470 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-03 11:20:30,363 ERROR [http-nio-8009-exec-8] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-05 09:49:32,745 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17508 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-05 09:49:32,751 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-05 09:49:32,757 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-05 09:50:06,988 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 36.807 seconds (JVM running for 37.964)
+2020-02-05 10:00:33,388 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 13876 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-05 10:00:33,389 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-05 10:00:33,390 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-05 10:00:47,577 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-05 10:00:49,309 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 16.884 seconds (JVM running for 18.474)
+2020-02-05 10:05:39,512 ERROR [http-nio-8009-exec-5] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-02-06 12:25:44,057 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17288 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-06 12:25:44,066 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-06 12:25:44,067 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-06 12:26:11,200 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-06 12:26:14,776 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 33.12 seconds (JVM running for 34.29)
+2020-02-11 09:57:00,307 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17852 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-11 09:57:00,311 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-11 09:57:00,311 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-11 09:57:10,172 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-14 09:58:12,842 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18712 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-02-14 09:58:12,849 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-02-14 09:58:12,850 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-02-14 09:58:34,405 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-02-14 09:58:41,970 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 32.352 seconds (JVM running for 34.884)
+2020-03-11 10:06:26,648 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 17040 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-03-11 10:06:26,650 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-03-11 10:06:26,650 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-03-11 10:06:44,204 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-03-11 10:06:46,525 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 21.067 seconds (JVM running for 23.515)
+2020-03-17 14:37:36,190 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 14228 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-03-17 14:37:36,191 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-03-17 14:37:36,192 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-03-17 14:37:49,456 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 21388 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-03-17 14:37:49,457 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-03-17 14:37:49,457 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-03-17 14:37:59,910 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-03-17 14:38:00,971 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 12.085 seconds (JVM running for 12.707)
+2020-03-23 12:01:28,261 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 2364 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-03-23 12:01:28,265 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-03-23 12:01:28,265 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-03-23 12:01:44,708 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-03-23 12:01:45,945 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 18.575 seconds (JVM running for 20.434)
+2020-03-23 13:59:48,070 ERROR [http-nio-8009-exec-7] RestAuthenticationEntryPoint: Responding with unauthorized error. Message - Full authentication is required to access this resource
+2020-03-25 12:45:19,893 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 18660 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-03-25 12:45:19,907 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-03-25 12:45:19,908 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-03-25 12:45:36,878 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-03-25 12:45:38,926 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 20.107 seconds (JVM running for 21.409)
+2020-04-06 18:49:46,196 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 4256 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-04-06 18:49:46,197 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-04-06 18:49:46,198 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-04-06 18:50:03,191 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-04-06 18:50:04,948 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 19.744 seconds (JVM running for 20.785)
+2020-05-20 09:02:00,677 INFO  [main] JustBookTicketsUserMgmtApplication: Starting JustBookTicketsUserMgmtApplication on B2ML19225 with PID 45680 (C:\Users\M1006601\201\JustBookTickets-UserMgmt\target\classes started by M1006601 in C:\Users\M1006601\201\JustBookTickets-UserMgmt)
+2020-05-20 09:02:00,692 DEBUG [main] JustBookTicketsUserMgmtApplication: Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-05-20 09:02:00,693 INFO  [main] JustBookTicketsUserMgmtApplication: No active profile set, falling back to default profiles: default
+2020-05-20 09:02:45,093 DEBUG [main] TokenAuthenticationFilter: Filter 'tokenAuthenticationFilter' configured for use
+2020-05-20 09:02:48,651 INFO  [main] JustBookTicketsUserMgmtApplication: Started JustBookTicketsUserMgmtApplication in 49.204 seconds (JVM running for 50.716)

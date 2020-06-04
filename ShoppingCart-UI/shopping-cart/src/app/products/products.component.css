@@ -1,0 +1,36 @@
+.cart{
+  overflow: hidden;
+  text-align: left;
+  color: brown;
+  font-family: cursive;
+  font-style: italic;
+}
+.description{
+  color: blueviolet;
+  font-family: cursive;
+}
+.price{
+  color: coral;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-variant: all-small-caps;
+}
+.quantity{
+  font-style: italic;
+  color: chocolate;
+}
+.container{
+  border: groove;
+  border-radius: 15px;
+  width: 600px;
+}
+
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+.info {color: dodgerblue;}

@@ -1,0 +1,16 @@
+<button class="btn info" id="backButton" (click)="goPlaces()">Cart Page</button>
+
+<div class="container" *ngFor="let product of data">
+    <div class="cart">
+        <h2>Product Name: {{product.productName}}</h2>
+    </div>
+    <div class="description">{{product.productDescription}} </div>
+    <div class="quantity">In Stock: {{product.productAvailable}}</div>
+    <div class="price">Price: ₹{{product.productPrice}}  </div>
+    <div align="center">
+        <input type="number" id="cartQty" placeholder="Limited to 1" disabled="disabled"> 
+        <button id="cartBuy" class="btn info" (click)="addToCart(product.productId)">Add Product to Cart</button>
+    </div>
+    <br>
+</div>
+
