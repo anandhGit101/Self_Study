@@ -1,0 +1,39 @@
+{
+    "id": null,
+    "errorCode": null,
+    "statusCode": 0,
+    "description": null,
+    "resultList": {
+        "Avalukkendru Oru Manam~PVR Cinemas - Grand Mall~23/05/2020": {
+            "movieId": "5ec7770bb66f07231d6d49de",
+            "movieTitle": "Avalukkendru Oru Manam",
+            "movieCast": "Gemini Ganesan, Muthuraman, Bharathi, Kanchana, Major Sundarrajan",
+            "movieSynopsis": "The Film deals with a triangular love.",
+            "movieLanguage": "Tamil",
+            "movieReleaseDate": "1971-06-18T00:00:00.000+0000",
+            "movieGenre": "Romance",
+            "movieImgURL": "Meena-Lalitha",
+            "year": 1971,
+            "directors": [
+                "Sridhar"
+            ],
+            "cinemasId": "5ec77715b66f07231d6d49df",
+            "cinemasName": "PVR Cinemas - Grand Mall",
+            "cinemasAddress": "The Grand Square Mall, Velachery",
+            "cinemasLocation": "Chennai",
+            "showTimingsList": [
+                "11:25:00",
+                "14:25:00"
+            ],
+            "showDate": "23-May-2020"
+        }
+    }
+}
+
+PostSchedule
+{
+"cinemasId":"5ec77715b66f07231d6d49df",
+"movieId":"5ec7770bb66f07231d6d49de",
+"showDate":"23-May-2020",
+"showTimingsList":"14:25:00"
+}
