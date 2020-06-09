@@ -37,3 +37,473 @@ PostSchedule
 "showDate":"23-May-2020",
 "showTimingsList":"14:25:00"
 }
+====================================================================================
+{
+"movieTitle":"Avalukkendru Oru Manam",
+"movieCast":"Gemini Ganesan, Muthuraman, Bharathi, Kanchana, Major Sundarrajan",
+"movieSynopsis":"The Film deals with a triangular love.",
+"movieLanguage":"Tamil",
+"movieReleaseDate":"1971-06-18",
+"movieGenre":"Romance",
+"movieImgURL":"Meena-Lalitha",
+"year":1971,
+"directors":["Sridhar"],
+"isMovieActive": true
+}
+===================================================================================
+
+{
+"cinemasName":"PVR Cinemas - Grand Mall",
+"cinemasLocation":"Chennai",
+"cinemasAddress":"The Grand Square Mall, Velachery"
+}
+================================================================
+{
+	"showDate":"2019-09-09",
+	"showTimings":"13:15:00",
+	"showMovieName":"Taare Zameen Par",
+	"showCinemasName":"PVR Cinemas - Grand Galada",
+	"seatsSelected":"A12",
+	"userName":"Nandu_1234",
+	"userEmail":"anandh.ragavan@yahoo.in",
+	"userPhoneNumber":"9941428823",
+	"seatCategory":"FIRST_CLASS"
+}
+=======================================================================================
+{
+    "resultList": [
+        {
+            "cinemasId": 1,
+            "cinemasName": "PVR Cinemas - Grand Mall",
+            "cinemasAddress": "The Grand Square Mall, Velachery",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 2,
+            "cinemasName": "PVR Cinemas - SkyWalk",
+            "cinemasAddress": "Ampa Skywalk, Royapettah",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 3,
+            "cinemasName": "PVR Cinemas - Grand Galada",
+            "cinemasAddress": "Grand Galada, Pallavaram",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 4,
+            "cinemasName": "PVR Cinemas - Chennai Metro Zone",
+            "cinemasAddress": "VR Mall, Metro Zone, Anna Nagar",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 5,
+            "cinemasName": "PVR Cinemas - Play House Heritage",
+            "cinemasAddress": "Play House Heritage Rsl Ecr, Chennai",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 6,
+            "cinemasName": "Escape Cinemas",
+            "cinemasAddress": "Express Avenue, Royapettah",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 7,
+            "cinemasName": "S2 Perambur",
+            "cinemasAddress": "Spectrum Mall, Perambur",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 8,
+            "cinemasName": "Kamala Cinemas",
+            "cinemasAddress": "Arcot Rd, Vadapalani",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 9,
+            "cinemasName": "INOX",
+            "cinemasAddress": "Chennai City Centre Mall, Mylapore",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 10,
+            "cinemasName": "PVR Cinemas - SKLS Galaxy Mall",
+            "cinemasAddress": "SKLS GALAXY MALL, Red Hills",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 11,
+            "cinemasName": "Jazz Cinemas Luxe",
+            "cinemasAddress": "Pheonix Market City, Velachery",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 12,
+            "cinemasName": "AGS Cinemas",
+            "cinemasAddress": "Coromandel Plaza, Navalur",
+            "cinemasLocation": "Chennai"
+        },
+        {
+            "cinemasId": 13,
+            "cinemasName": "Cinepolis - Royal",
+            "cinemasAddress": "Meenakshi Mall, Bannerghatta Road",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 14,
+            "cinemasName": "Cinepolis Fun Cinemas",
+            "cinemasAddress": "Grand Sigma Mall, Vasanth Nagar",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 15,
+            "cinemasName": "Gopalan Cinemas",
+            "cinemasAddress": "Gopalan Arcade Mall, Rajarajeswari Nagar",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 16,
+            "cinemasName": "INOX",
+            "cinemasAddress": "Central Mall, JP Nagar",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 17,
+            "cinemasName": "Innovative Multiplex",
+            "cinemasAddress": "Marathahalli",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 18,
+            "cinemasName": "Balaji Theatre",
+            "cinemasAddress": "Tavarekere",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 19,
+            "cinemasName": "Kamakya Theatre",
+            "cinemasAddress": "Banashankari 2nd Stage",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 20,
+            "cinemasName": "Triveni Theatre 4K Digital Cinema",
+            "cinemasAddress": "SC Road, Gandhi Nagar",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 21,
+            "cinemasName": "Urvashi Theater",
+            "cinemasAddress": "Doddamavalli, Sudhama Nagar",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 22,
+            "cinemasName": "SPI AURA CINEMAS",
+            "cinemasAddress": "Pattandur Agrahara, Whitefield",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 23,
+            "cinemasName": "Galaxy Paradise",
+            "cinemasAddress": "Maruthi Layout, Hongasandra",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 24,
+            "cinemasName": "Cauvery Theatre",
+            "cinemasAddress": "Sankey Rd, Guttahalli",
+            "cinemasLocation": "Bengaluru"
+        },
+        {
+            "cinemasId": 25,
+            "cinemasName": "Cinepolis - Manjeera",
+            "cinemasAddress": "Trinity Mall, Kukatpally",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 26,
+            "cinemasName": "Cinepolis",
+            "cinemasAddress": "Mantra Mall, Attapur",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 27,
+            "cinemasName": "INOX",
+            "cinemasAddress": "Maheshwari Parmeshwari Mall, Kachiguda",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 28,
+            "cinemasName": "Miraj Cinemas",
+            "cinemasAddress": "Dilsukh Nagar",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 29,
+            "cinemasName": "PVR Cinemas",
+            "cinemasAddress": "Next Galleria Mall, Panjagutta",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 30,
+            "cinemasName": "Carnival Cinemas",
+            "cinemasAddress": "Nagarjuna Nagar colony, Ameerpet",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 31,
+            "cinemasName": "Asian Cinemas",
+            "cinemasAddress": "Inner Ring Rd, Somi Reddy Nagar, Attapur",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 32,
+            "cinemasName": "Prasads Multiplex",
+            "cinemasAddress": "IMAX Road Khairtabad Behind of NTR Marg",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 33,
+            "cinemasName": "Sudarshan Theatre 35MM",
+            "cinemasAddress": "Chikkadpally, Himayatnagar",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 34,
+            "cinemasName": "Srinivasa Theatre",
+            "cinemasAddress": "Hanumasai Nagar, Laxma Reddy Colony, Uppal",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 35,
+            "cinemasName": "Sree Mayuri 70MM",
+            "cinemasAddress": "Sweta Enclave, Jawahar Nagar, Kavadiguda",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 36,
+            "cinemasName": "Ranga Theatre",
+            "cinemasAddress": "Jeedimettla, Chinthal",
+            "cinemasLocation": "Hyderabad"
+        },
+        {
+            "cinemasId": 37,
+            "cinemasName": "M Cinemas",
+            "cinemasAddress": "East of Kailash",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 38,
+            "cinemasName": "Cinepolis",
+            "cinemasAddress": "Unity One Mall Rohini",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 39,
+            "cinemasName": "Fun Cinemas",
+            "cinemasAddress": "TDI Mall, Moti Nagar",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 40,
+            "cinemasName": "PVR Promenade",
+            "cinemasAddress": "Vasant Kunj",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 41,
+            "cinemasName": "INOX Eros One",
+            "cinemasAddress": "Jangpura Extension",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 42,
+            "cinemasName": "Maratha Mandir",
+            "cinemasAddress": "Mumbai Central",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 43,
+            "cinemasName": "SPI Cinemas",
+            "cinemasAddress": "Le Reve-Globus Mall, Bandra West",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 44,
+            "cinemasName": "Gold Cinema",
+            "cinemasAddress": "Santacruz",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 45,
+            "cinemasName": "Cinemax",
+            "cinemasAddress": "R Odeon Mall, Ghatkopar",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 46,
+            "cinemasName": "Fun Cinemas",
+            "cinemasAddress": "Anand Cinema, Thane",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 47,
+            "cinemasName": "INOX",
+            "cinemasAddress": "Metro Mall Junction, Kalyan(E)",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 48,
+            "cinemasName": "Prithvi Theatre",
+            "cinemasAddress": "Juhu Church Rd, Mumbai",
+            "cinemasLocation": "Mumbai"
+        },
+        {
+            "cinemasId": 49,
+            "cinemasName": "Devipriya Screen-Sree Padmanabha Theatre",
+            "cinemasAddress": "East Fort,Pazhavangadi",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 50,
+            "cinemasName": "MT Cineplex 4K 3D Pothencode",
+            "cinemasAddress": "Pothencode Junction",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 51,
+            "cinemasName": "Lenin cinema",
+            "cinemasAddress": "Salem - Kochi Hwy,Thampanoor",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 52,
+            "cinemasName": "Kairali Sree Nila Theatre",
+            "cinemasAddress": "Manorama Rd,Aristo Junction,Thampanoor",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 53,
+            "cinemasName": "Kalabhavan Theatre",
+            "cinemasAddress": "Chalachitra kalabhavan,CV Raman Pillai Rd,Vazhuthacaud",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 54,
+            "cinemasName": "Aries Plex SL Cinemas",
+            "cinemasAddress": "Sahodara Samajam Road,Near Overbridge",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 55,
+            "cinemasName": "SPI Kripa Cinemas",
+            "cinemasAddress": " MG Road,Chalai Bazaar,Chalai, ",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 56,
+            "cinemasName": "Ajanta Theatre",
+            "cinemasAddress": "East Fort,Chalai Bazaar Junction",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 57,
+            "cinemasName": "Carnival Cinemas",
+            "cinemasAddress": "Green Field Stadium,NH 66,Karyavattom",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 58,
+            "cinemasName": "Dhanya & Remya Cinemas",
+            "cinemasAddress": "Kunnumpuram Rd,Near Ayurveda College,Vanchiyoor",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 59,
+            "cinemasName": "Harisree Theatres",
+            "cinemasAddress": "Vettu Road, Kazhakkoottam",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 60,
+            "cinemasName": "Jayasree Theatre",
+            "cinemasAddress": "N H Road, Kottiyam Junction",
+            "cinemasLocation": "Thiruvananthapuram"
+        },
+        {
+            "cinemasId": 61,
+            "cinemasName": "Delite Cinema",
+            "cinemasAddress": "G B, Asaf Ali Rd,Delhi Gate",
+            "cinemasLocation": "New Delhi"
+        },
+        {
+            "cinemasId": 62,
+            "cinemasName": "PVR Cinemas Pacific Mall",
+            "cinemasAddress": "Tagore Garden,Block 6,Subhash Nagar",
+            "cinemasLocation": "New Delhi"
+        },
+        {
+            "cinemasId": 63,
+            "cinemasName": "Satyam INOX",
+            "cinemasAddress": "Behind Shadipur Metro Station,Patel Nagar",
+            "cinemasLocation": "New Delhi"
+        },
+        {
+            "cinemasId": 64,
+            "cinemasName": "Batra Reels Cinemas",
+            "cinemasAddress": "Maulana Mohammad Ali Jauhar Marg,Friends Colony West",
+            "cinemasLocation": "New Delhi"
+        },
+        {
+            "cinemasId": 65,
+            "cinemasName": "Ritz Cinema",
+            "cinemasAddress": "Inter State Bus Terminal, Kashmere Gate",
+            "cinemasLocation": "New Delhi"
+        },
+        {
+            "cinemasId": 66,
+            "cinemasName": "Moti Cinema",
+            "cinemasAddress": "Bhagirath Palace,Chhippy Wada,Chandni Chowk",
+            "cinemasLocation": "New Delhi"
+        },
+        {
+            "cinemasId": 67,
+            "cinemasName": "Star Theatre",
+            "cinemasAddress": "Bidhan Sarani, Kolkata",
+            "cinemasLocation": "Kolkata"
+        },
+        {
+            "cinemasId": 68,
+            "cinemasName": "Sonali Cinema Hall",
+            "cinemasAddress": "Barrackpore Trunk Road,Narendra Nagar,Dakshineswar",
+            "cinemasLocation": "Kolkata"
+        },
+        {
+            "cinemasId": 69,
+            "cinemasName": "Minerva Theatre",
+            "cinemasAddress": "Utpal Das Sarani,Abhedananda Rd,Ram Bagan",
+            "cinemasLocation": "Kolkata"
+        },
+        {
+            "cinemasId": 70,
+            "cinemasName": "Regal Cinema Hall",
+            "cinemasAddress": "SN Banerjee Road,New Market Area,Dharmatala",
+            "cinemasLocation": "Kolkata"
+        },
+        {
+            "cinemasId": 71,
+            "cinemasName": "RDB Cinemas",
+            "cinemasAddress": "Plot K & GP,1,Street Number 25,EP Block,Sector V",
+            "cinemasLocation": "Kolkata"
+        },
+        {
+            "cinemasId": 72,
+            "cinemasName": "Basusree Cinema",
+            "cinemasAddress": "Shyama Prasad Mukherjee Rd,Near Kalighat Metro",
+            "cinemasLocation": "Kolkata"
+        }
+    ]
+}
+==================================================================================================
